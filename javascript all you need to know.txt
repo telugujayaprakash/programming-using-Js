@@ -1,0 +1,5 @@
+Data Types:-
+python datatypes aare divided into 2 Types
+they are 1.primitive 2.non-primitive
+1.primitive datatypes are: number,boolean,undefined
+2.Non-primitve Datatypes are:array,object
