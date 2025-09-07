@@ -1,0 +1,11 @@
+PS  test questions:
+1) prime number 
+2) Palindrome 
+3) Factorial 
+4) Armstrong 
+5) all patterns 
+6) Fibanoci 
+7) highest number in an array 
+8) lowest number in an array 
+9) any one sorting algorithm (selection or insertion or bubble or merge or quick or heap )
+10) transpose of a matrix
